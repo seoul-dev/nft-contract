@@ -1,3 +1,4 @@
 {
-  "BaseNftModule#BasicNft": "0xD989F1A4495a044D409434B237C51db7A74A48E0"
+  "BaseNftModule#BasicNft": "0xD989F1A4495a044D409434B237C51db7A74A48E0",
+  "MarketplaceModule#Marketplace": "0x8c6a733fF70B93c491d9f198aBfc83D85c124866"
 }
